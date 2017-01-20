@@ -1,6 +1,6 @@
 # hello-world
 Hi,
 welcome to yun Solution.
-bye Bye
+bye goodmorning have a good day
 
 
